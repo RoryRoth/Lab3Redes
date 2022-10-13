@@ -1,5 +1,4 @@
 # Lab3Redes
 
-Video:
+[Video](https://youtu.be/SaE-oArnz6c)
 
-https://discord.com/channels/@me/1006269019646603349/1029882057234595851
