@@ -1,14 +1,18 @@
 # Lab3Redes - Juan Manuel Deutsch/ Héctor Diaz/ Santiago Contreras
 
-1. ![image](https://user-images.githubusercontent.com/89588991/195732728-203a795b-00ef-4538-bedb-c27fd1c7391d.png)
+1. 
+![image](https://user-images.githubusercontent.com/89588991/195732728-203a795b-00ef-4538-bedb-c27fd1c7391d.png)
 
 ![image](https://user-images.githubusercontent.com/89588991/195732834-dbeaa7c2-979f-4000-a373-3e3b1bebdffd.png)
 
-2. ![image](https://user-images.githubusercontent.com/89588991/195732931-e9c496b9-7127-4453-b4d7-675e1792c081.png)
+2. 
+![image](https://user-images.githubusercontent.com/89588991/195732931-e9c496b9-7127-4453-b4d7-675e1792c081.png)
  
-3. ![image](https://user-images.githubusercontent.com/89588991/195732964-ae67b3e1-5706-49f4-add1-d6e94064f2f1.png)
+3. 
+![image](https://user-images.githubusercontent.com/89588991/195732964-ae67b3e1-5706-49f4-add1-d6e94064f2f1.png)
 
-4. ![image](https://user-images.githubusercontent.com/89588991/195732996-4e32eb30-e5f7-47dd-a9d9-8919d5978a08.png)
+4. 
+![image](https://user-images.githubusercontent.com/89588991/195732996-4e32eb30-e5f7-47dd-a9d9-8919d5978a08.png)
 
 5. Para verificar la configuración se usa el comando PING el cual muestra la cantidad de paquetes que fueron enviados, recibidos y la cantidad de paquetes perdidos y, así mismo, el tiempo de respuesta de cada uno de los paquetes. 
 
@@ -18,7 +22,8 @@
 
 ![image](https://user-images.githubusercontent.com/89588991/195733351-b8525be6-953f-4415-88c1-71e205617c04.png)
 
-7. ![image](https://user-images.githubusercontent.com/89588991/195733414-2441e02d-148c-48b1-823d-597ea52ff075.png)
+7. 
+![image](https://user-images.githubusercontent.com/89588991/195733414-2441e02d-148c-48b1-823d-597ea52ff075.png)
 
 8. La interface del router que se usa es el fa0/1, se deben crear y configurar 5 subinterfaces (vlan 35, vlan 20, vlan 40, vlan 55 y la vlan 99 nativa) y se usa el protocolo de encapsulamiento dot1q.
 
@@ -35,4 +40,4 @@
 ![image](https://user-images.githubusercontent.com/89588991/195734247-d8bc1273-846f-4b32-9346-9c122f72e93c.png)
 
 
-[Video](https://youtu.be/SaE-oArnz6c)
+Para más detalles por favor ver el siguiente [video](https://youtu.be/SaE-oArnz6c)
